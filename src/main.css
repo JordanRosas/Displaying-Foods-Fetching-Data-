@@ -1,0 +1,14 @@
+#foodList{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+section{
+    flex-basis:30%;
+    padding:10px;
+    font-size:20px;
+    border:2px solid black;
+    margin:20px;
+    text-align: center;
+}
