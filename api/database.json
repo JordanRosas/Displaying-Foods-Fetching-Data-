@@ -1,0 +1,52 @@
+{
+  "food": [
+    {
+      "id": 1,
+      "name": "Linguine",
+      "type": "pasta",
+      "ethnicity": "italian"
+    },
+    {
+      "id": 2,
+      "name": "Massaman curry",
+      "type": "curry",
+      "ethnicity": "thai"
+    },
+    {
+      "id": 3,
+      "name": "Green curry",
+      "type": "curry",
+      "ethnicity": "thai"
+    },
+    {
+      "id": 4,
+      "name": "Ravioli Funghi",
+      "type": "pasta",
+      "ethnicity": "italian"
+    },
+    {
+      "id": 5,
+      "name": "Tuscan Soup",
+      "type": "vegetarian",
+      "ethnicity": "italian"
+    },
+    {
+      "name": "Tacos al pastor",
+      "type": "taco",
+      "ethnicity": "mexican",
+      "id": 6
+    },
+    {
+      "name": "Hamburger",
+      "type": "burger",
+      "ethnicity": "american",
+      "id": 7
+    },
+    {
+      "name": "Foi Gras",
+      "type": "duck liver",
+      "ethnicity": "french",
+      "id": 8
+    }
+  ]
+}
