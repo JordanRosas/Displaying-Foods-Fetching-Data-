@@ -1,0 +1,7 @@
+# starts when grunt runs
+default:
+  - "eslint"
+  - "http-server"
+  - "bgShell:launchAPI"
+  - "watch"
+
